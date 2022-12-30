@@ -15,10 +15,11 @@ Main features
 1. Hybrid framework to test automation APIs. 
 2. Supports REST APIs testing. 
 3. All classes and methods are implemented in Java with Maven repository to include all dependencies needed.
-4. every request body of APis exist json files in resourses folder.
-5. Apis test cases are existing in test cases folder.
-6. The framework validates the returned status code, response body. It can validate each field data type and value. If the returned response includes object of arraylist.
-7. Source code is available here: https://github.com/ymhmd/buenoAPI-SourceCode
+4. Every API has its page and test class.
+5. every request body of APis exist json files in resourses folder.
+6. Apis test cases are existing in test cases folder.
+7. The framework validates the returned status code, response body. It can validate each field data type and value. If the returned response includes object of arraylist.
+8. Source code is available here: https://github.com/mostafaamin442/Carefer-Task
 
 
 Tools versions 
