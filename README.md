@@ -16,7 +16,7 @@ Main features
 2. Supports REST APIs testing. 
 3. All classes and methods are implemented in Java with Maven repository to include all dependencies needed.
 4. Every API has its page and test class.
-5. every request body of APis exist json files in resourses folder.
+5. every request body of API exist in json files in resourses folder.
 6. Apis test cases are existing in test cases folder.
 7. The framework validates the returned status code, response body. It can validate each field data type and value. If the returned response includes object of arraylist.
 8. Source code is available here: https://github.com/mostafaamin442/Carefer-Task
@@ -29,7 +29,7 @@ Tools versions
 
 Apis used in this task
 -----------------------------
-1.Register API
+1. Register API
 
 - Base Url : https://provider.test.carefer.co/api/provider
 - Headers:
@@ -51,7 +51,7 @@ Apis used in this task
 ```
 
 
-2.Verify API
+2. Verify API
 
 - Base Url : https://provider.test.carefer.co/api/provider
 - Headers:
@@ -68,7 +68,7 @@ Apis used in this task
 ```
 
 
-3.Login API
+3. Login API
 
 - Base Url : https://provider.test.carefer.co/api/provider
 - Headers:
